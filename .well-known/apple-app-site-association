@@ -1,0 +1,29 @@
+{
+    "applinks":{
+        "apps":[],
+        "details":{
+            "Q6H2R6CZL3.com.hisense.juconnect.connectLife":{
+                "paths":[
+                    "*"
+                ]
+            },
+            "Q6H2R6CZL3.com.hisense.juconnect.connectLifeChina":{
+                "paths":[
+                    "*"
+                ]
+            }
+        }
+    },
+    "webcredentials":{
+        "apps":[
+            "Q6H2R6CZL3.com.hisense.juconnect.connectLife",
+			"Q6H2R6CZL3.com.hisense.juconnect.connectLifeChina"
+        ]
+    },
+    "activitycontinuation":{
+        "apps":[
+            "Q6H2R6CZL3.com.hisense.juconnect.connectLife",
+			"Q6H2R6CZL3.com.hisense.juconnect.connectLifeChina"
+        ]
+    }
+}
